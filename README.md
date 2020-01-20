@@ -10,4 +10,24 @@ Blocked by
 
 | Dependency | MR / Issue link | Status |
 | ---------- |:---------------:| ------:|
-| scalajs-react  | [x](https://github.com/japgolly/scalajs-react/issues/599) | Not ready |
+| [scalajs-react](https://github.com/japgolly/scalajs-react)  | [ISSUE](https://github.com/japgolly/scalajs-react/issues/599) | Not ready |
+| [nyaya](https://github.com/japgolly/nyaya) | [MR](https://github.com/japgolly/nyaya/pull/77) | Blocked |
+| [microlibs-scala (test-util)](https://github.com/japgolly/microlibs-scala) | x | ? | 
+| [utest](https://github.com/lihaoyi/utest) | x | Ready. ver: 0.7.3 |
+| [UnivEq](https://github.com/japgolly/univeq) | [MR](https://github.com/japgolly/univeq/pull/41) | Ready. ver: 1.2.0 |
+
+## [Refined](https://github.com/fthomas/refined)
+
+Blocked by
+
+| Dependency | MR / Issue link | Status |
+| ---------- |:---------------:| ------:|
+| [scopt](https://github.com/scopt/scopt) | x | Blocked by [minitest](#minitest) |
+| [scodec](https://github.com/scodec/scodec) | x | Not ready |
+
+
+## [Minitest](https://github.com/monix/minitest)
+MR submitted. Approval required.
+[ISSUE](https://github.com/monix/minitest/issues/43)
+[MR](https://github.com/monix/minitest/pull/49)
+
