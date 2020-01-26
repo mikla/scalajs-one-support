@@ -23,7 +23,7 @@ Blocked by
 | Dependency | MR / Issue link | Status |
 | ---------- |:---------------:| ------:|
 | [scopt](https://github.com/scopt/scopt) | x | Blocked by [minitest](#minitest) |
-| [scodec](https://github.com/scodec/scodec) | x | Not ready |
+| [scodec](https://github.com/scodec/scodec) | x |Blocked by [scodec-bits](#scodec-bits) |
 
 
 ## [Minitest](https://github.com/monix/minitest)
@@ -32,3 +32,5 @@ MR submitted. Approval required.
 
 [MR](https://github.com/monix/minitest/pull/50)
 
+## scodec-bits
+TBD
