@@ -32,5 +32,5 @@ MR submitted. Approval required.
 
 [MR](https://github.com/monix/minitest/pull/50)
 
-## scodec-bits
+## [scodec-bits](https://github.com/scodec/scodec-bits)
 [MR](https://github.com/scodec/scodec-bits/pull/145) Sumbitted. 
