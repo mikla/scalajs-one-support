@@ -29,5 +29,6 @@ Blocked by
 ## [Minitest](https://github.com/monix/minitest)
 MR submitted. Approval required.
 [ISSUE](https://github.com/monix/minitest/issues/43)
-[MR](https://github.com/monix/minitest/pull/49)
+
+[MR](https://github.com/monix/minitest/pull/50)
 
