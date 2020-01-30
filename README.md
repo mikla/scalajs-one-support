@@ -33,4 +33,8 @@ MR submitted. Approval required.
 [MR](https://github.com/monix/minitest/pull/50)
 
 ## [scodec-bits](https://github.com/scodec/scodec-bits)
-[MR](https://github.com/scodec/scodec-bits/pull/145) Sumbitted. 
+[MR](https://github.com/scodec/scodec-bits/pull/145) Merged. 
+
+## Cats-effect
+[MR](https://github.com/typelevel/cats-effect/pull/753/files) Merged.
+
