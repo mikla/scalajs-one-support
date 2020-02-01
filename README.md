@@ -37,3 +37,12 @@ MR submitted. Approval required.
 ## Cats-effect
 [MR](https://github.com/typelevel/cats-effect/pull/753/files) Merged.
 
+## [Monocle](https://github.com/julien-truffaut/Monocle)
+Blocked by
+
+| Dependency | MR / Issue link | Status |
+| ---------- |:---------------:| ------:|
+| [Refined](#Refined) | x | x |
+| Shapeless | x | Blocked by [MR](https://github.com/milessabin/shapeless/pull/959) |
+
+
