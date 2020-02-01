@@ -45,4 +45,11 @@ Blocked by
 | [Refined](#Refined) | x | x |
 | Shapeless | x | Blocked by [MR](https://github.com/milessabin/shapeless/pull/959) |
 
+## [microlibs-scala](https://github.com/japgolly/microlibs-scala)
 
+Blocked by
+
+| Dependency | MR / Issue link | Status |
+| ---------- |:---------------:| ------:|
+| nyaya-test | x | Blocked by monocle |
+| nyaya-gen  | x | Blocked by monocle |
