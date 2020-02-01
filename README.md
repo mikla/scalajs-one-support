@@ -11,7 +11,7 @@ Blocked by
 | Dependency | MR / Issue link | Status |
 | ---------- |:---------------:| ------:|
 | [scalajs-react](https://github.com/japgolly/scalajs-react)  | [ISSUE](https://github.com/japgolly/scalajs-react/issues/599) | Not ready |
-| [nyaya](https://github.com/japgolly/nyaya) | [MR](https://github.com/japgolly/nyaya/pull/77) | Blocked |
+| [nyaya](https://github.com/japgolly/nyaya) | [MR](https://github.com/japgolly/nyaya/pull/77) | Blocked by [monocle](https://github.com/julien-truffaut/Monocle)|
 | [microlibs-scala (test-util)](https://github.com/japgolly/microlibs-scala) | x | ? | 
 | [utest](https://github.com/lihaoyi/utest) | x | Ready. ver: 0.7.3 |
 | [UnivEq](https://github.com/japgolly/univeq) | [MR](https://github.com/japgolly/univeq/pull/41) | Ready. ver: 1.2.0 |
