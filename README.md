@@ -23,8 +23,7 @@ Blocked by
 | Dependency | MR / Issue link | Status |
 | ---------- |:---------------:| ------:|
 | [scopt](https://github.com/scopt/scopt) | x | Blocked by [minitest](#minitest) |
-| [scodec](https://github.com/scodec/scodec) | x |Blocked by [scodec-bits](#scodec-bits) |
-
+| [scodec](https://github.com/scodec/scodec) | x | Blocked by [scalatestplus-scalacheck](https://github.com/scalatest/scalatestplus-scalacheck) [ISSUE](https://github.com/scalatest/scalatestplus-scalacheck/issues/25) [MR](https://github.com/scalatest/scalatestplus-scalacheck/pull/23) |
 
 ## [Minitest](https://github.com/monix/minitest)
 MR submitted. Approval required.
@@ -33,7 +32,7 @@ MR submitted. Approval required.
 [MR](https://github.com/monix/minitest/pull/50)
 
 ## [scodec-bits](https://github.com/scodec/scodec-bits)
-[MR](https://github.com/scodec/scodec-bits/pull/145) Merged. 
+[MR](https://github.com/scodec/scodec-bits/pull/145) Merged. Ver: 1.1.13
 
 ## Cats-effect
 [MR](https://github.com/typelevel/cats-effect/pull/753/files) Merged.
