@@ -53,3 +53,10 @@ Blocked by
 | ---------- |:---------------:| ------:|
 | nyaya-test | x | Blocked by monocle |
 | nyaya-gen  | x | Blocked by monocle |
+
+## [cats-retry](https://github.com/cb372/cats-retry)
+Blocked by
+
+| Dependency | MR / Issue link | Status |
+| ---------- |:---------------:| ------:|
+| cats-mtl |: x :| x :|
