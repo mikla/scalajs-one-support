@@ -26,8 +26,7 @@ Blocked by
 | [scodec](https://github.com/scodec/scodec) | x | Ready. ver: 1.11.7 |
 
 ## [Minitest](https://github.com/monix/minitest)
-MR submitted. Approval required.
-[ISSUE](https://github.com/monix/minitest/issues/43)
+Ready. ver v2.8.2
 
 [MR](https://github.com/monix/minitest/pull/50)
 
