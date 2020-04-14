@@ -22,8 +22,8 @@ Blocked by
 
 | Dependency | MR / Issue link | Status |
 | ---------- |:---------------:| ------:|
-| [scopt](https://github.com/scopt/scopt) | x | Ready. ver: 1.11.7 |
-| [scodec](https://github.com/scodec/scodec) | x | Blocked by [scalatestplus-scalacheck](https://github.com/scalatest/scalatestplus-scalacheck) [ISSUE](https://github.com/scalatest/scalatestplus-scalacheck/issues/25) [MR](https://github.com/scalatest/scalatestplus-scalacheck/pull/23) |
+| [scopt](https://github.com/scopt/scopt) | x | Ready. ver: 4.0.0-RC2 |
+| [scodec](https://github.com/scodec/scodec) | x | Ready. ver: 1.11.7 |
 
 ## [Minitest](https://github.com/monix/minitest)
 MR submitted. Approval required.
